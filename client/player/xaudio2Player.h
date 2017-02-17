@@ -1,0 +1,8 @@
+//
+// Created by Mark on 2/16/2017.
+//
+
+#ifndef SNAPCLIENT_XAUDIO2PLAYER_H
+#define SNAPCLIENT_XAUDIO2PLAYER_H
+
+#endif //SNAPCLIENT_XAUDIO2PLAYER_H
